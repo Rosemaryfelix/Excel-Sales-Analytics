@@ -17,7 +17,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/Rosemaryfelix/Excel-Sales-Analytics/blob/main/p_and_l.pdf
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]
    **2.** Create Profit and Loss (P&L) reports by _[Markets]_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
