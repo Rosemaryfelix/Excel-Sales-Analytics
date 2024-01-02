@@ -5,8 +5,8 @@
 
     **1.** Create a _[customer performance report]
 
-    **2.** Conduct a comprehensive comparison between (https://github.com/Rosemaryfelix/Excel-Sales-Analytics/blob/main/performance_vs_target.pdf)
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+    **2.** Conduct a comprehensive comparison between [market performance and sales targets]
+- **Purpose of sales analytics:** Empower businesses to monior and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
